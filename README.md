@@ -25,3 +25,5 @@ to open a split window for the test file related to current class
 ## Licence
 
 This plugin is released under the [MIT License][1].
+
+[1]: https://raw.githubusercontent.com/fabiosal/vim-find-test/master/LICENSE
